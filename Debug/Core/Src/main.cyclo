@@ -1,0 +1,14 @@
+main.c:104:6:randomWordsUART	5
+main.c:148:6:delay	2
+main.c:159:6:start_game	2
+main.c:177:6:game_over	1
+main.c:204:6:HAL_GPIO_EXTI_Callback	6
+main.c:239:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:248:6:findMinMaxSum	9
+main.c:291:5:main	1
+main.c:341:6:SystemClock_Config	3
+main.c:380:13:MX_TIM2_Init	4
+main.c:425:13:MX_TIM3_Init	4
+main.c:470:13:MX_USART2_UART_Init	2
+main.c:505:13:MX_GPIO_Init	1
+main.c:549:6:Error_Handler	1
